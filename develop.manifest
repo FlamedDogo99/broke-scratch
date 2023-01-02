@@ -1,0 +1,12 @@
+CACHE MANIFEST
+
+# Version 3 
+
+develop.html
+lib.min.js
+chunks/gui.js
+index.html
+
+# offline icons
+icon.png
+startup.png
